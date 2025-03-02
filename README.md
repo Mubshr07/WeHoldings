@@ -1,6 +1,8 @@
-Real State website
+# WeHoldings
 
-Deploy: 
+Real State website landing page. 
 
-n
-https://weholdings.netlify.app/
+## Demo: 
+  [Here is the Demo](https://weholdings.netlify.app/)
+
+
